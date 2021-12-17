@@ -7,6 +7,8 @@ sleep 10
 
 echo "Frissítések beszerzése..."
 
+sleep 5
+
 sudo apt update
 
 sudo apt get upgrade
